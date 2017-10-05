@@ -1,0 +1,14 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "description": "A (mostly) semantic logging utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Ainatchi <Maxwell.Ainatchi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
